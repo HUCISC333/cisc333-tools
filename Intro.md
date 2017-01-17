@@ -253,7 +253,7 @@ Atom is a text editor that's modern, approachable, yet hackable to the core—a 
 
 #### Installation
 
-Simply download and install the binarys from [atom.io](https://atom.io/).
+Simply download and install the binaries from [atom.io](https://atom.io/).
 
 Once installed I  would recommend install some additional packages. Press `Cmd+,` on Mac or `Ctrl+,`on all other platforms to open the setting tab. Locate the **Install ** section in the sidebar. From the search box find the following packages and click install.
 
@@ -262,8 +262,36 @@ Once installed I  would recommend install some additional packages. Press `Cmd+,
 - platformio-ide-terminal (provides a terminal window inside atom)
 - Atom-beautify (Cleans up code)
 
-#### Addition Settings to Consider
+#### Addition Settings and Packages to Consider
+##### Settings
+Autosave
+1. From the Settings tab (Ctrl+, on PC or Cmd+, on MacOS) locate the **Packages** pane.
+2. In the search box type **autosave** and press enter
+3. Select the setting button in the autosave box
+4. locate checkbox labeled **Enable** and check it
 
+Indenting and tabs
+1. From the Settings tab (Ctrl+, on PC or Cmd+, on MacOS) locate the **Editor** pane.
+2. Locate the checkbox labeled **Show Indent Guides** and check it
+3. Locate the the input field labeled **Tab Length**
+4. In the input box replace the content with the number **4**
+
+Scroll past (This is just one of my preferences)
+1. From the Settings tab (Ctrl+, on PC or Cmd+, on MacOS) locate the **Editor** pane.
+2. Locate the checkbox labeled **Scroll Past End** and check it
+
+##### Packages
+Atom-Beautify
+1. From the Settings tab (Ctrl+, on PC or Cmd+, on MacOS) locate the packages pane.
+2. Locate the **Install** pane
+3. In the search box type **atom-beautify** and press enter
+4. Click install in the package box labeled **atom-beautify**
+
+Auto-Runner
+1. From the Settings tab (Ctrl+, on PC or Cmd+, on MacOS) locate the packages pane.
+2. Locate the **Install** pane
+3. In the search box type **auto-runner** and press enter
+4. Click install in the package box labeled **auto-runner**
 
 ## Done
 
